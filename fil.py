@@ -2,7 +2,7 @@ import pandas as pd
 import torch.nn
 import re
 import requests
-URL="http://localhost:8080/api/v1/db/data/v1/pftjft4txscifxd/m24mnqwwkissrsh"
+URL="your server url hosted"
 HEADERS = {
     "xc-token": "your_api_token_here"
 }
